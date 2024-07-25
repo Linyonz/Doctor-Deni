@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "913035309574",
+    "firebase_url": "https://doctordeni-8069e-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "doctordeni-8069e",
+    "storage_bucket": "doctordeni-8069e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913035309574:android:8398743fc548f0de598987",
+        "android_client_info": {
+          "package_name": "com.example.doctordeni"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM4PIujWO4O5W1YgVVv5CUtKzPLh_QTj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
